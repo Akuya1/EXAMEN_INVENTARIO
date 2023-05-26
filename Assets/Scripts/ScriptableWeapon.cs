@@ -19,8 +19,14 @@ public class ScriptableWeapon : ScriptableObject
     public enum WeaponType
   
     {  
-        sword,
-        staff,
+        tracer,
+        mccree,
+        sombra,
+        mercy,
+        mei,
+        sigma,
+        lifeweaver,
+        lucio,
     }
 }
 
